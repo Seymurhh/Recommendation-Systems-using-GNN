@@ -27,6 +27,7 @@ This repository presents a personalized movie recommendation system developed us
 **Demonstration Video:**
 
 * Watch the detailed 15-minute walkthrough here on YouTube: https://youtu.be/siK5MfFOr-w
+* [![Watch the video](https://img.youtube.com/vi/siK5MfFOr-w/0.jpg)](https://youtu.be/siK5MfFOr-w)
 
 **Setup Instructions**
 
