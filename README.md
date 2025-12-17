@@ -24,10 +24,6 @@ This repository presents a personalized movie recommendation system developed us
 
 * NetworkX for graph visualization
 
-**Demonstration Video:**
-
-* Watch the detailed 15-minute walkthrough here on YouTube: https://youtu.be/siK5MfFOr-w
-
 **Setup Instructions**
 
 * Detailed installation and usage instructions can be found in the notebook provided in the repository.
